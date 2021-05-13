@@ -1,0 +1,55 @@
+
+html{
+    background-color: #fff;
+    height: auto;
+}
+
+body{
+    background-color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+div{
+    
+}
+h1{
+    font-size: 35px;
+    color: #626262;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    margin: auto;
+    font-family: "poppins";
+}
+form{
+    display: block;
+    width: 50%;
+    height: 325px;
+    margin: 20px auto;
+    padding: 40px;
+    border: 2px solid black;
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color: orange;
+    transition-property: background-color;    
+}
+input{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+button {
+         background-color: goldenrod;
+         border: none;
+         color: white;
+         padding: 15px 24px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 15px;
+         margin: 4px 2px;
+         border-radius: 10px;
+         }
+
